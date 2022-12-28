@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ana! 
-- 💻 I'm studying to soon become a Full Stack Web Developper
-- ✨ I'm currently an Ironhacker
-- 🌷 Feel free to go through my repositories! 
+👋 Hi, I’m Ana! 
+💻 I'm studying to soon become a Full Stack Web Developper
+✨ I'm currently an Ironhacker
+🌷 Feel free to go through my repositories! 
 
 
 <!---
