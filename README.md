@@ -42,7 +42,7 @@
 </p>
 
 <h4>
-  Oh, and I also have background in 📚🎓:  
+  Oh, and I also have a background in 🎓:  
 </h4>
 <p>Translation and Interpreting 🇪🇸-🇺🇸-🇫🇷-🇩🇪 & Nutrition and Dietetics 🍏</p>
 
