@@ -1,6 +1,6 @@
-<h2>Hey there, I'm Ana 👋</h2>
+<h2>Hi there, I'm Ana 👋</h2>
 
-<p>I'm a junior ✨Full Stack Developer✨</p>
+<p>I'm a ✨Full Stack Developer✨</p>
 
 <h4>You can find me here:</h4>
   <a href="www.linkedin.com/in/ana-gutierrezruiz">
